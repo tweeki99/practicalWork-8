@@ -1,0 +1,7 @@
+c:\users\шипиловд\source\repos\pw8\pw8\obj\Debug\pw8.csprojAssemblyReference.cache
+c:\users\шипиловд\source\repos\pw8\pw8\obj\Debug\pw8.csproj.CoreCompileInputs.cache
+c:\users\шипиловд\source\repos\pw8\pw8\bin\Debug\pw8.exe.config
+c:\users\шипиловд\source\repos\pw8\pw8\bin\Debug\pw8.exe
+c:\users\шипиловд\source\repos\pw8\pw8\bin\Debug\pw8.pdb
+c:\users\шипиловд\source\repos\pw8\pw8\obj\Debug\pw8.exe
+c:\users\шипиловд\source\repos\pw8\pw8\obj\Debug\pw8.pdb
